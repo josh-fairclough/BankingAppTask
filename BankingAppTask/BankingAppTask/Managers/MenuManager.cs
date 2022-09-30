@@ -22,7 +22,7 @@ namespace BankingAppTask.Managers
 
         public static void Login()
         {
-            //Console.Clear();
+            Console.Clear();
             Console.WriteLine(" Main Menu ");
             Console.WriteLine(" ");
             Console.WriteLine(" 1. Enter Login Details ");

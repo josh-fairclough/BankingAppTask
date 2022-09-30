@@ -52,7 +52,7 @@ namespace BankingAppTask.Managers
             StringBuilder input = new StringBuilder();
             while (true)
             {
-                var keyPress = Console.ReadKey();
+                var keyPress = Console.ReadKey(true);
                 if (keyPress.Key == ConsoleKey.Enter) break;
                 if (keyPress.Key == ConsoleKey.Backspace && input.Length > 0) input.Remove(input.Length - 1, 1);
                 else if (keyPress.Key != ConsoleKey.Backspace) input.Append(keyPress.KeyChar);
@@ -70,7 +70,7 @@ namespace BankingAppTask.Managers
         {
             Console.WriteLine(output);
             Console.WriteLine("Press any key to continue");
-            Console.Read();
+            Console.ReadKey();
         }
     }
 }

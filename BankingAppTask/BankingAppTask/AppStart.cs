@@ -1,11 +1,8 @@
-﻿using System.Runtime.CompilerServices;
-
-[assembly: InternalsVisibleTo("BankingApptests")]
-namespace BankingAppTask
+﻿namespace BankingAppTask
 {
-    internal class AppStart
+    class AppStart
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             BankingAppManager initialise = new BankingAppManager();
             initialise.MockAccounts();
