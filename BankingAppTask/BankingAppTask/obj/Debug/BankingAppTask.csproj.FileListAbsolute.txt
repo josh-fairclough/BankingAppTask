@@ -1,0 +1,7 @@
+C:\Git\BankingAppTask\BankingAppTask\BankingAppTask\bin\Debug\BankingAppTask.exe.config
+C:\Git\BankingAppTask\BankingAppTask\BankingAppTask\bin\Debug\BankingAppTask.exe
+C:\Git\BankingAppTask\BankingAppTask\BankingAppTask\bin\Debug\BankingAppTask.pdb
+C:\Git\BankingAppTask\BankingAppTask\BankingAppTask\obj\Debug\BankingAppTask.csproj.AssemblyReference.cache
+C:\Git\BankingAppTask\BankingAppTask\BankingAppTask\obj\Debug\BankingAppTask.csproj.CoreCompileInputs.cache
+C:\Git\BankingAppTask\BankingAppTask\BankingAppTask\obj\Debug\BankingAppTask.exe
+C:\Git\BankingAppTask\BankingAppTask\BankingAppTask\obj\Debug\BankingAppTask.pdb
