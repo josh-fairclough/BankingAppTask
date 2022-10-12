@@ -43,20 +43,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Accounts.cs" />
-    <Compile Include="AppStart.cs" />
-    <Compile Include="Enums.cs" />
-    <Compile Include="Interfaces\IBalance.cs" />
-    <Compile Include="Interfaces\IDeposit.cs" />
-    <Compile Include="Interfaces\ILogin.cs" />
-    <Compile Include="Interfaces\ITransfer.cs" />
-    <Compile Include="Interfaces\IWithdraw.cs" />
-    <Compile Include="Managers\BankingAppManager.cs" />
-    <Compile Include="Managers\InputManager.cs" />
-    <Compile Include="Managers\MenuManager.cs" />
+    <Compile Include="OldTask\Accounts.cs" />
+    <Compile Include="OldTask\AppStart.cs" />
+    <Compile Include="OldTask\Enums.cs" />
+    <Compile Include="OldTask\Interfaces\IBalance.cs" />
+    <Compile Include="OldTask\Interfaces\IDeposit.cs" />
+    <Compile Include="OldTask\Interfaces\ILogin.cs" />
+    <Compile Include="OldTask\Interfaces\ITransfer.cs" />
+    <Compile Include="OldTask\Interfaces\IWithdraw.cs" />
+    <Compile Include="OldTask\Managers\BankingAppManager.cs" />
+    <Compile Include="OldTask\Managers\InputManager.cs" />
+    <Compile Include="OldTask\Managers\MenuManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Transactions.cs" />
-    <Compile Include="Transfer.cs" />
+    <Compile Include="OldTask\Transactions.cs" />
+    <Compile Include="OldTask\Transfer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
